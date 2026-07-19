@@ -1,0 +1,2 @@
+Replace this with your actual resume file, saved as: public/resume.pdf
+The Navbar and Hero "Download Resume" buttons link to /resume.pdf
